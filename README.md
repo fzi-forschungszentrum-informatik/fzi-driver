@@ -1,6 +1,5 @@
-#### Template of Model interface
+#### FZI Driver Traffic Agent Model
 -------------------------
-[[_TOC_]]
 
 #### Developer(s)
 - Markus Lemmer (lemmer@fzi.de)
