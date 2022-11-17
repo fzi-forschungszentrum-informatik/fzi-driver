@@ -1,0 +1,6 @@
+/.vscode
+/CMake
+/lib
+/include/osi3
+/open-simulation-interface
+/build-fmu
